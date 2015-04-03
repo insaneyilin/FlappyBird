@@ -1,0 +1,9 @@
+cocos2d
+bin
+gen
+obj
+
+*.sdf
+*.suo
+*.opensdf
+Debug.win32
